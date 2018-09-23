@@ -12,6 +12,7 @@
 * 07_fd_smote_xgboost.R - [Fraud Detection with SMOTE and XGBoost in R](https://www.kaggle.com/bonovandoo/fraud-detection-with-smote-and-xgboost-in-r)
 * 08_unbalanced.R - [Unbalanced](https://shiring.github.io/machine_learning/2017/04/02/unbalanced)
 * 09_flu_xgboost.R - [predicting flu outcome with R](https://shiring.github.io/machine_learning/2016/12/02/flu_outcome_ML_2_post)
+* 10_build_dis_pred.R - [Building meaningful machine learning models for disease prediction](https://shiring.github.io/machine_learning/2017/03/31/webinar_code)
 
 
 ## Topik
